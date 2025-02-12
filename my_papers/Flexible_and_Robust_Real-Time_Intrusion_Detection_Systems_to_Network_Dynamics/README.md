@@ -1,4 +1,5 @@
 Abstract:
+
 Deep learning-based intrusion detection systems have advanced due to their technological innovations such as high accuracy, automation, and scalability to develop an effective network intrusion detection system (NIDS). However, most of the previous research has focused on model generation through intensive analysis of feature engineering instead of considering real environments. They have limitations to applying the previous methods for a real network environment to detect real-time network attacks. In this paper, we propose a new flexible and robust NIDS based on Recurrent Neural Network (RNN) with a multi-classifier to generate a detection model in real time. The proposed system adaptively and intelligently adjusts the generated model with given system parameters that can be used as security parameters to defend against the attacker’s obfuscation techniques in real time. In the experimental results, the proposed system detects network attacks with a high accuracy and high-speed model upgrade in real-time while showing robustness under an attack.
 
 https://ieeexplore.ieee.org/abstract/document/9858115
