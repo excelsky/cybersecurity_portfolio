@@ -6,4 +6,4 @@ Currently, this page shows my published academic paper and on-going achievements
 
 Soon, I will include code samples demonstrating my proficiency in security scripting, network diagrams illustrating complex security architectures I have designed.
 
-Last Updated: Feb 14, 2025
+Last Updated: Feb 21, 2025
